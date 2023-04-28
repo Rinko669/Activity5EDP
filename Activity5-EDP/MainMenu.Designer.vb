@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class MainMenu
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class MainMenu
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(MainMenu))
         Me.Label1 = New System.Windows.Forms.Label()
@@ -37,7 +37,7 @@ Partial Class MainMenu
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Segoe UI", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label1.Location = New System.Drawing.Point(95, 46)
+        Me.Label1.Location = New System.Drawing.Point(180, 41)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(250, 54)
         Me.Label1.TabIndex = 0
@@ -81,7 +81,7 @@ Partial Class MainMenu
         '
         'Button7
         '
-        Me.Button7.Location = New System.Drawing.Point(41, 272)
+        Me.Button7.Location = New System.Drawing.Point(41, 263)
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(153, 53)
         Me.Button7.TabIndex = 7
@@ -90,7 +90,7 @@ Partial Class MainMenu
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(224, 272)
+        Me.Button1.Location = New System.Drawing.Point(224, 263)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(153, 53)
         Me.Button1.TabIndex = 8
@@ -99,7 +99,7 @@ Partial Class MainMenu
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(436, 128)
+        Me.Button2.Location = New System.Drawing.Point(431, 164)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(164, 44)
         Me.Button2.TabIndex = 9

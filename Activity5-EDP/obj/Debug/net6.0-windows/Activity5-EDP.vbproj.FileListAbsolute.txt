@@ -148,3 +148,5 @@ C:\Users\user\Downloads\EDPACT - Copy\EDPACT - Copy\Activity5-EDP\obj\Debug\net6
 C:\Users\user\Downloads\EDPACT - Copy\EDPACT - Copy\Activity5-EDP\obj\Debug\net6.0-windows\ref\Activity5-EDP.dll
 C:\Users\user\Downloads\EDPACT - Copy\EDPACT - Copy\Activity5-EDP\bin\Debug\net6.0-windows\MySqlBackup.dll
 C:\Users\user\Downloads\EDPACT - Copy\EDPACT - Copy\Activity5-EDP\obj\Debug\net6.0-windows\Activity5_EDP.Form7.resources
+C:\Users\user\Downloads\EDPACT - Copy\EDPACT - Copy\Activity5-EDP\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\user\Downloads\EDPACT - Copy\EDPACT - Copy\Activity5-EDP\obj\Debug\net6.0-windows\Activity5_EDP.Form8.resources
